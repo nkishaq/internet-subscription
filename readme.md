@@ -1,8 +1,10 @@
 
 
-## Confgration internet-subscription
+## Configration internet-subscription
 
-A URL shortner service is that takes a long URL and generates a shorter version of it. When the short URL is typed in the browser window, it redirects to the actual URL.
+You have a list of internet subscription products in your db, each product can have
+many properties like upload_speed, download_speed, technology (fiber/dialup),
+static_ip (yes/no) etc.
 
 ## Technology
 	
